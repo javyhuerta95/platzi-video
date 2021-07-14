@@ -1,2 +1,2 @@
 # platzi-video
-Aplicacion realizada siguiendo el curso Frontend Developer
+Aplicacion realizada siguiendo el curso Frontend Developer de Platzi
